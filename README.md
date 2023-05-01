@@ -4,7 +4,7 @@
 # na video aula funciona: o professor iniciou ele assim com um construtor, isso na aula 4C
 ![image](https://user-images.githubusercontent.com/106206316/235394763-d6396369-fa44-468f-9db7-1a6e889bc032.png)
 
-## depois mudo pra isso 
+## depois mudo pra isso, não entendi o porque dessa mudança, se o outro jeito estava errado ou se ou se é apenas um ourto jeito de fazer
 
 export class Curso{
 nomeCurso:String;valorCurso:Number;idCurso?:Number
