@@ -5,9 +5,11 @@
 ![image](https://user-images.githubusercontent.com/106206316/235394763-d6396369-fa44-468f-9db7-1a6e889bc032.png)
 
 ## depois mudo pra isso 
+
 export class Curso{
-constructor(nomeCurso:String,valorCurso:Number,idCurso?:Number){}
+nomeCurso:String;valorCurso:Number;idCurso?:Number
 }
+
 ![image](https://user-images.githubusercontent.com/106206316/235395575-5fd5325d-4146-4486-bc30-d19c105dc939.png)
 
 
