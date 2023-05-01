@@ -32,4 +32,4 @@ depois na aula
 ![image](https://user-images.githubusercontent.com/106206316/235396179-5f1cfd74-c9ff-4fef-9ec5-3de17d93f515.png)
 #### porem ainda assim não consegui listar os dados na pagina inicial
 
- #### obs.: no arquivo app.component.html, eu fiz a declaração da tag <-app-curso></app-curso->
+ #### obs.: no arquivo app.component.html, eu fiz a declaração da tag <-app-curso></app-curso->, que é o componente que tem o template onde esta sendo feito a listagem
